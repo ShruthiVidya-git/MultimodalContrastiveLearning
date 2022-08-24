@@ -1,3 +1,6 @@
+"""
+This is direct repilca of ConVIRT-Pytorch repository
+"""
 # Mount Drive
 from google.colab import drive
 drive.mount('/content/drive/')
