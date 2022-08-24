@@ -1,4 +1,7 @@
 """
+This is direct repilca of ConVIRT-Pytorch repository
+"""
+"""
 Reference for BERT Sentence Embeddings method
 
 @inproceedings{reimers-2019-sentence-bert,
