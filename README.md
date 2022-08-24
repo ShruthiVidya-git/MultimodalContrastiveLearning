@@ -34,6 +34,7 @@ implemented at the inference to identify diseases.
 >  > ```utils```<br />
 >  > >```text_processing.py``` This contains the text preprocessing steps involved to get the text embeddings<br />
 >  > >```Image_preprocess.py``` This contains the image preprocessing steps involved to get the image embeddings<br />
+>  > >
 >  >```main.ipynb``` Run this to train Gloria Model<br />
 >  >```main_vit.ipynb``` Run this to train ViT+BERT Model<br />
 >  >```Inference_time.ipynb``` Inference results for both models for Binary and Multi-class Classification<br />
