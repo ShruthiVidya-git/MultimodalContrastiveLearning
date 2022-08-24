@@ -1,6 +1,6 @@
 """
 
-Adopted from Gloria repo
+Adopted from Gloria repo https://github.com/marshuang80/gloria
 
 Below code describes the model vit GLoria along with the vision transfomers as image encoders and bert as text encoder and loss functions
 
