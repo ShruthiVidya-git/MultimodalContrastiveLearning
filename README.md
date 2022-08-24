@@ -18,20 +18,32 @@ implemented at the inference to identify diseases.
 >  > ```Models```<br />
 >  > >```Gloria``` <br />
 >  > > >```gloria_model.py``` Models defined with ResNet50 and BioClinicalBERT as Image and Text Encoder <br />
->  > > >```train.py``` Fine-tunes the ResNet50 and BioClinicalBERT for MIMIC-III Image-Text pairs<br />
+>  > > >```train.py``` Fine-tunes the ResNet50 and BioClinicalBERT for MIMIC-III Image-Text pairs<br />  
+>  > > >
 >  > >```Vit```<br />
 >  > > >```train_vit.py``` Models defined with ViT and BioClinicalBERT as Image and Text Encoder <br />
 >  > > >```vit.py``` Fine-tunes the ViT and BioClinicalBERT for MIMIC-III Image-Text pairs<br />
+>  > > >
 >  > ```dataloader```<br />
 >  > >```data_loader.py``` Data Loader which fetches data for training and testing the models<br />
+>  > >
 >  > ```inference```<br />
 >  > >```create_prompts_embeddings.py``` This file creates the hand-crafted class prompts <br />
 >  > >```similarities.py``` Used to compute the global and local similarities between the test images and class prompts<br />
+>  > >
 >  > ```utils```<br />
 >  > >```text_processing.py``` This contains the text preprocessing steps involved to get the text embeddings<br />
+>  > >
 >  ```main.ipynb``` Run this to train Gloria Model<br />
 >  ```main_vit.ipynb``` Run this to train ViT+BERT Model<br />
 >  ```Inference_time.ipynb``` Inference results for both models for Binary and Multi-class Classification<br />
+>  ```ConVIRT-Pytorch``` <br />
+>  >```dataset.py``` Reads csv and gets the images and phrases<br />
+>  >```dataset_wrapper.py``` Performs image tranformation/ augmentation and loads train/ validation data<br />
+>  >```model.py``` Definition of Image and Text Encoders<br />
+>  >```nt_xent.py```Definition of Loss function<br />
+>  >```train.py``` Loads and checkpoints for training the models<br />
+>  >```run.ipynb```Runs the model and trains it<br />
 
 
 
