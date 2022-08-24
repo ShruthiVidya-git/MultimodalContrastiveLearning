@@ -1,6 +1,6 @@
 
 """
-Adopted from gloria repo
+Adopted from gloria repo https://github.com/marshuang80/gloria
 
 Below code describes the model GLoria along with the encoders and loss functions
 
