@@ -37,6 +37,7 @@ implemented at the inference to identify diseases.
 >  >```main.ipynb``` Run this to train Gloria Model<br />
 >  >```main_vit.ipynb``` Run this to train ViT+BERT Model<br />
 >  >```Inference_time.ipynb``` Inference results for both models for Binary and Multi-class Classification<br />
+>  >
 >  ```ConVIRT-Pytorch``` <br />
 >  >```dataset.py``` Reads csv and gets the images and phrases<br />
 >  >```dataset_wrapper.py``` Performs image tranformation/ augmentation and loads train/ validation data<br />
