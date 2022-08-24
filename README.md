@@ -17,8 +17,7 @@ implemented at the inference to identify diseases.
 > ```Gloria-VIT``` 
 >  > ```Models```
 >  > >```Gloria``` 
->  > > >```gloria_model.py``` Defined the model with ResNet50 and BioClinicalBERT as Image and Text Encoder
-
+>  > > >```gloria_model.py``` Defined the model with ResNet50 and BioClinicalBERT as Image and Text Encoder\n
 >  > > >```train.py``` Fine-tunes the ResNet50 and BioClinicalBERT for MIMIC-III Image-Text pairs
 
 
