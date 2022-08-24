@@ -24,3 +24,4 @@ one modality as the input does improve the model performance. We can also conclu
 both local and global features improve the efficiency of any given model. Contrastive and Zero shot
 learning although difficult in implementation do have many perks to it, the major one being not
 needing labeled data and is extremely valuable in the field of medicine.
+<img src="MultimodalContrastiveLearning/Results/Flowchart.jpeg" width="128"/>
