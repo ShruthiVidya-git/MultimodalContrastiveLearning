@@ -1,3 +1,3 @@
 This folder conatins the snapshot of the results that we obtained from all the models.
-Model 1: Direct implemenation of Gloria
+Model 1: Our interpretation of Gloria Model
 Model 2: Novel approach at contrastive learning using Vit and bert encoders and using contarstive leanring techniques.
