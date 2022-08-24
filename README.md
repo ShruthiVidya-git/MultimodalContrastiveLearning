@@ -14,7 +14,8 @@ implemented at the inference to identify diseases.
 
 ## Code Structure 
 
-> Gloria-VIT
+> ```Gloria-VIT```
+>  > ```Models```
 
 
 
