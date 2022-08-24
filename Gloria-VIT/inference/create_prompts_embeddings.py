@@ -1,6 +1,6 @@
 """
-Adopted from gloria repository
-
+Adopted from gloria repository https://github.com/marshuang80/gloria
+ 
 This file enlists the steps to create the class prompts to find the closest class at inference to the test image
 """
 
