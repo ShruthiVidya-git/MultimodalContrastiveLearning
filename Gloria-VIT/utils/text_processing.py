@@ -1,5 +1,5 @@
 """
-Code Adopted from Gloria Repo
+Code Adopted from Gloria Repo https://github.com/marshuang80/gloria
 
 This file consists of the text preprocessing and encoding steps to generate and store the text embeddings from reports
 """
