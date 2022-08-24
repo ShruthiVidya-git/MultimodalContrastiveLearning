@@ -1,5 +1,5 @@
 """
-Adopted from Gloria Repository
+Adopted from Gloria Repository https://github.com/marshuang80/gloria
 
 This file consists of the similarities computation used durin inference to identify the closest class based on prompts
 
