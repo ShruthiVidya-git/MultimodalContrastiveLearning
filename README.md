@@ -25,4 +25,4 @@ both local and global features improve the efficiency of any given model. Contra
 learning although difficult in implementation do have many perks to it, the major one being not
 needing labeled data and is extremely valuable in the field of medicine.
 
-![Alt text](https://github.com/ShruthiVidya-git/MultimodalContrastiveLearning/blob/main/Results/Flowchart.jpeg,"Flow chart of our workflow")
+![Alt text](https://github.com/ShruthiVidya-git/MultimodalContrastiveLearning/blob/main/Results/Flowchart.jpeg "Flow chart of our workflow")
