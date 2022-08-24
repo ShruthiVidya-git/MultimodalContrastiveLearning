@@ -1,1 +1,1 @@
-Contains 2 function: Gloria and vit-gloria
+Contains 2 models : Gloria(ResNet50 and BioClinicalBERT) and vit-gloria(ViT and BioClinicalBERT)
