@@ -51,7 +51,7 @@ From the sample folder to run the sample.ipynb - download the checkpoint,sample 
 >  >```run.ipynb```Runs the model and trains it<br />
 >  >
 >  ```Sample``` <br />
->  >```Sample.ipynb``` Executable code for model 2, performing binary classification for cardiomegaly<br />
+>  >```Sample.ipynb``` Executable code for model 2, performing binary classification on cardiomegaly<br />
 
 
 
