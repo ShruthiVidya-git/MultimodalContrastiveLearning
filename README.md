@@ -9,7 +9,7 @@ During training, image and text encoders are used to convert the radiographs to 
 implemented at the inference to identify diseases.
 
 ## Usage
-From the sample folder to run the sample.ipynb - download the checkpoint,sample image,and pickle file containing the embeddings of the classes. Change the file paths in the colab notebooks and run any desired image you want to classify. For the sample file, we have used cardiomalegy as the class for binary classification.
+From the sample folder to run the sample.ipynb - download the checkpoint,sample image,and pickle file containing the embeddings of the classes. Change the file paths in the colab notebooks and run any desired image to classify. For the sample file, we have used 'cardiomalegy' as the class and it performs binary classification.
 
 ## Architecture Pipeline 
 
