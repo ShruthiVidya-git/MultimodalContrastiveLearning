@@ -7,7 +7,8 @@ The dataset is available at https://physionet.org/content/mimic-cxr/2.0.0/
 One of the biggest challenges in the field of Medical AI is the indispensable requirement to have huge labeled data which is challenging due to its sensitive nature. Medical data is very difficult to collect and annotate which is addressed in this work by using a self-supervised learning algorithm which requires no labeling or annotations for training. Integration of multi-modal data, which is inherent in the nature of healthcare records, is the next reasonable step in using Deep Learning for Biomedical diagnosis.
 During training, image and text encoders are used to convert the radiographs to image embeddings,textual reports to word embeddings and get their latent representations. Contrastive learning techniques can then be applied to learn the joint embedding space and zero shot classification can be
 implemented at the inference to identify diseases.
-
+## Usage
+From the sample folder download the sample.ipynb, the checkpoint,sample image,and pickle file conatining the embeddings of the classes. Change the file paths in the colab notebooks and run any desired image you want to classify. For the sample file, we have used cardiomalegy as the class for binary classification, 
 ## Architecture Pipeline 
 
 ![Alt text](https://github.com/ShruthiVidya-git/MultimodalContrastiveLearning/blob/main/Results/Flowchart.jpeg "Flow chart of our workflow")
@@ -46,6 +47,9 @@ implemented at the inference to identify diseases.
 >  >```nt_xent.py```Definition of Loss function<br />
 >  >```train.py``` Loads and checkpoints for training the models<br />
 >  >```run.ipynb```Runs the model and trains it<br />
+>  >
+>  ```Sample``` <br />
+>  >```Sample.ipynb``` Executable code for model 2, performing binary classification for cardiomegaly<br />
 
 
 
